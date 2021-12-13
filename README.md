@@ -11,3 +11,6 @@
 # 仅构建
 ./build.sh
 ```
+
+## 依赖 
+https://github.com/denoland/rusty_v8
